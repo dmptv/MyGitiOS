@@ -13,11 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        // сделаем изменения для  repo
-        
-        var dddd : Int = 90
-        var ff = 78
-        var ss = dddd + ff
+
         
     }
 
